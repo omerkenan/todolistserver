@@ -1,6 +1,6 @@
 # To-Do List Web App for NodeMCU
 
-![NodeMCU](link_to_your_image_here.png)
+![NodeMCU]
 
 This project allows you to create a To-Do List accessible through your local Wi-Fi network. You can add and manage tasks easily through a web interface.
 
@@ -30,7 +30,7 @@ Follow these steps to get started with the To-Do List on your NodeMCU:
 
 Here is an example of how your To-Do List web app might look:
 
-![To-Do List](example_screenshot.png)
+![To-Do List](Image.png)
 
 ## Public Access
 
