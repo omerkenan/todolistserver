@@ -32,7 +32,7 @@ Here is an example of how your To-Do List web app might look:
 
 ![To-Do List](Image.png)
 
-![To-Do List with Quest](Image.png)
+![To-Do List with Quest](Imagewithquest.png)
 
 ## Public Access
 
